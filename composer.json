@@ -1,0 +1,5 @@
+{
+    "require": {
+        "php-science/textrank": "^1.2"
+    }
+}
